@@ -1,0 +1,64 @@
+
+.card {
+  min-height: 22vh;
+  width: 22%;
+  /* color: hsl(0, 0%, 95%); */
+  margin-top: 18px;
+  margin-left: 50px;
+}
+.top-container{
+  margin-top:5px
+}
+
+.image{
+  text-align: center;
+  width: 12px;
+  height: 12px;
+  margin-left: 53px;
+}
+
+.text {
+ 
+  margin-bottom: 12px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+}
+.pera {
+  color: hsl(228, 12%, 44%);
+  font-size: 10px;
+  text-align: center;
+}
+.pera1 {
+  color: hsl(163, 72%, 41%);
+  font-size: 10px;
+  text-align: center;
+  margin-top: 25px;
+}
+.label{
+    color: hsl(228, 12%, 44%);
+    font-size: 10px;
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+
+.text-light{
+  color: hsl(0, 0%, 95%);
+}
+.text-dark{
+  color: black
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
